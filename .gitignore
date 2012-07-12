@@ -1,12 +1,13 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+.svn
+/.svn
+.metadata
+/.metadata
+.DS_STORE
+.cvs
+/.cvs
+INSTALL.txt
+LICENSE.txt
+README.txt
+demos/
+extras/documentation
 
-# Compiled Dynamic libraries
-*.so
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
