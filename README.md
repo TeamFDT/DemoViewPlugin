@@ -2,9 +2,9 @@ DemoViewPlugin
 ==============
 
 https://groups.google.com/forum/?fromgroups#!forum/fdt-swfbridge
-
+*****
 [Watch a video of the plugin in action](https://vimeo.com/45639655 "Video")
-
+*****
 
 ![Mou icon](https://github.com/TeamFDT/DemoViewPlugin/raw/master/about/using_view_and_dialogue_view.png)
 ![Mou icon](https://github.com/TeamFDT/DemoViewPlugin/raw/master/about/install_plugins.png)
